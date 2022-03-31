@@ -3,7 +3,7 @@
 Note: Make sure that you have node.js installed in your computer by typing in your terminal:
 
 ```bash
-$ node -v
+$ pip3 install flask && python3 server.py
 ```
 
 ## 🌱  How to start this project
